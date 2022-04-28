@@ -1,1 +1,1 @@
-getgenv().AntiCrack = "TRUE"
+getgenv().AntiCrack = "FALSE"
